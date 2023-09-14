@@ -1,11 +1,14 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" }
+    "users": [
+        {   "id": 1, 
+            "lvl": 1,
+            "xp" : 100,
+            "chestsCatched" : 0
+        },
+        {   "id": 2, 
+            "lvl": 10,
+            "xp" : 5000,
+            "chestsCatched" : 50
+        },
     ],
-    "comments": [
-      { "id": 1, "body": "Comment 1" },
-      { "id": 2, "body": "Comment 2" }
-    ]
-  }
-  
+}
