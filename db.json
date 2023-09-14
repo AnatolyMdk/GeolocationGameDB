@@ -1,15 +1,11 @@
-[
-    {
-        "id": "1",
-        "level": "1",
-        "xp": "100",
-        "chests": "0"
-    },
-
-    {
-        "id": "2",
-        "level": "5",
-        "xp": "2000",
-        "chests": "5"
-    }
-]
+{
+    "posts": [
+      { "id": 1, "title": "Post 1" },
+      { "id": 2, "title": "Post 2" }
+    ],
+    "comments": [
+      { "id": 1, "body": "Comment 1" },
+      { "id": 2, "body": "Comment 2" }
+    ]
+  }
+  
